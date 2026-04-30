@@ -3,3 +3,5 @@ heart-rate-applewatch-ouraring-main/
 ml_pipeline/
 ouraring/
 __pycache__/
+.DS_Store
+.gitignore
