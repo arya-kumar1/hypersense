@@ -1,0 +1,305 @@
+participant,date,class,n,spearman_rho,spearman_p,source_csv
+P001,2025-02-03,Cash-out,6,0.8285714285714287,0.04156268221574334,/Users/aryakumar/Documents/Hypensense/OuraRing/P1OuraRing/HeartRate/P001OrHrLabeled2025-02-03.csv
+P001,2025-02-03,ELA,24,-0.26323893451038705,0.2139339215531199,/Users/aryakumar/Documents/Hypensense/OuraRing/P1OuraRing/HeartRate/P001OrHrLabeled2025-02-03.csv
+P001,2025-02-03,History,15,0.21626460825111604,0.438839173807695,/Users/aryakumar/Documents/Hypensense/OuraRing/P1OuraRing/HeartRate/P001OrHrLabeled2025-02-03.csv
+P001,2025-02-03,Homeroom,3,0.5,0.6666666666666667,/Users/aryakumar/Documents/Hypensense/OuraRing/P1OuraRing/HeartRate/P001OrHrLabeled2025-02-03.csv
+P001,2025-02-03,Math,15,-0.15233072758068897,0.5878380077061862,/Users/aryakumar/Documents/Hypensense/OuraRing/P1OuraRing/HeartRate/P001OrHrLabeled2025-02-03.csv
+P001,2025-02-03,Social Skills,8,-0.5476190476190477,0.1600256425388966,/Users/aryakumar/Documents/Hypensense/OuraRing/P1OuraRing/HeartRate/P001OrHrLabeled2025-02-03.csv
+P001,2025-02-03,TOTAL,71,0.0802451595320778,0.5059034334179829,/Users/aryakumar/Documents/Hypensense/OuraRing/P1OuraRing/HeartRate/P001OrHrLabeled2025-02-03.csv
+P001,2025-02-04,Cash-out,3,-0.5,0.6666666666666667,/Users/aryakumar/Documents/Hypensense/OuraRing/P1OuraRing/HeartRate/P001OrHrLabeled2025-02-04.csv
+P001,2025-02-04,ELA,9,0.5666666666666667,0.11163298761149114,/Users/aryakumar/Documents/Hypensense/OuraRing/P1OuraRing/HeartRate/P001OrHrLabeled2025-02-04.csv
+P001,2025-02-04,History,8,0.4285714285714286,0.2894032248467901,/Users/aryakumar/Documents/Hypensense/OuraRing/P1OuraRing/HeartRate/P001OrHrLabeled2025-02-04.csv
+P001,2025-02-04,Homeroom,6,-0.5428571428571429,0.26570262390670557,/Users/aryakumar/Documents/Hypensense/OuraRing/P1OuraRing/HeartRate/P001OrHrLabeled2025-02-04.csv
+P001,2025-02-04,Math,19,-0.6982878260940121,0.0008837903990185559,/Users/aryakumar/Documents/Hypensense/OuraRing/P1OuraRing/HeartRate/P001OrHrLabeled2025-02-04.csv
+P001,2025-02-04,Social Skills,12,-0.44055944055944063,0.15173503571673025,/Users/aryakumar/Documents/Hypensense/OuraRing/P1OuraRing/HeartRate/P001OrHrLabeled2025-02-04.csv
+P001,2025-02-04,TOTAL,57,-0.40693307405554846,0.001681570332401912,/Users/aryakumar/Documents/Hypensense/OuraRing/P1OuraRing/HeartRate/P001OrHrLabeled2025-02-04.csv
+P001,2025-02-05,Cash-out,6,0.028571428571428574,0.9571545189504373,/Users/aryakumar/Documents/Hypensense/OuraRing/P1OuraRing/HeartRate/P001OrHrLabeled2025-02-05.csv
+P001,2025-02-05,ELA,35,-0.16497066292340315,0.34361576551931494,/Users/aryakumar/Documents/Hypensense/OuraRing/P1OuraRing/HeartRate/P001OrHrLabeled2025-02-05.csv
+P001,2025-02-05,History,11,0.33868074965743356,0.30829148828308006,/Users/aryakumar/Documents/Hypensense/OuraRing/P1OuraRing/HeartRate/P001OrHrLabeled2025-02-05.csv
+P001,2025-02-05,Homeroom,7,-0.9642857142857145,0.0004541491691941689,/Users/aryakumar/Documents/Hypensense/OuraRing/P1OuraRing/HeartRate/P001OrHrLabeled2025-02-05.csv
+P001,2025-02-05,Math,15,-0.3458803579185055,0.20666274100977355,/Users/aryakumar/Documents/Hypensense/OuraRing/P1OuraRing/HeartRate/P001OrHrLabeled2025-02-05.csv
+P001,2025-02-05,Social Skills,11,-0.16895153304157257,0.619467370064624,/Users/aryakumar/Documents/Hypensense/OuraRing/P1OuraRing/HeartRate/P001OrHrLabeled2025-02-05.csv
+P001,2025-02-05,TOTAL,85,-0.13938710514526967,0.20327392088195612,/Users/aryakumar/Documents/Hypensense/OuraRing/P1OuraRing/HeartRate/P001OrHrLabeled2025-02-05.csv
+P001,2025-02-06,Cash-out,9,0.2833333333333333,0.46003032896571994,/Users/aryakumar/Documents/Hypensense/OuraRing/P1OuraRing/HeartRate/P001OrHrLabeled2025-02-06.csv
+P001,2025-02-06,ELA,29,0.4061238179161086,0.02881282303612841,/Users/aryakumar/Documents/Hypensense/OuraRing/P1OuraRing/HeartRate/P001OrHrLabeled2025-02-06.csv
+P001,2025-02-06,History,18,-0.4016582516390513,0.0984960321402417,/Users/aryakumar/Documents/Hypensense/OuraRing/P1OuraRing/HeartRate/P001OrHrLabeled2025-02-06.csv
+P001,2025-02-06,Homeroom,13,-0.4071530674317398,0.16733711341921095,/Users/aryakumar/Documents/Hypensense/OuraRing/P1OuraRing/HeartRate/P001OrHrLabeled2025-02-06.csv
+P001,2025-02-06,Math,28,0.0666027891200861,0.7363166504714495,/Users/aryakumar/Documents/Hypensense/OuraRing/P1OuraRing/HeartRate/P001OrHrLabeled2025-02-06.csv
+P001,2025-02-06,Social Skills,19,0.27480256420832516,0.2548662878758642,/Users/aryakumar/Documents/Hypensense/OuraRing/P1OuraRing/HeartRate/P001OrHrLabeled2025-02-06.csv
+P001,2025-02-06,TOTAL,116,-0.07183114597783455,0.44352318108508026,/Users/aryakumar/Documents/Hypensense/OuraRing/P1OuraRing/HeartRate/P001OrHrLabeled2025-02-06.csv
+P001,2025-02-07,ELA/History,11,0.6104799437547951,0.046060398811002226,/Users/aryakumar/Documents/Hypensense/OuraRing/P1OuraRing/HeartRate/P001OrHrLabeled2025-02-07.csv
+P001,2025-02-07,Funday Friday,9,0.9333333333333332,0.00023589981215941676,/Users/aryakumar/Documents/Hypensense/OuraRing/P1OuraRing/HeartRate/P001OrHrLabeled2025-02-07.csv
+P001,2025-02-07,Homeroom,12,0.04895104895104895,0.8799185788786749,/Users/aryakumar/Documents/Hypensense/OuraRing/P1OuraRing/HeartRate/P001OrHrLabeled2025-02-07.csv
+P001,2025-02-07,Math,27,-0.10581057567095596,0.599395395716953,/Users/aryakumar/Documents/Hypensense/OuraRing/P1OuraRing/HeartRate/P001OrHrLabeled2025-02-07.csv
+P001,2025-02-07,TOTAL,59,0.014898307026349094,0.9108283631752478,/Users/aryakumar/Documents/Hypensense/OuraRing/P1OuraRing/HeartRate/P001OrHrLabeled2025-02-07.csv
+P002,2025-02-03,Cash-out,6,0.6571428571428573,0.15617492711370237,/Users/aryakumar/Documents/Hypensense/OuraRing/P2OuraRing/HeartRate/P002OrHrLabeled2025-02-03.csv
+P002,2025-02-03,ELA,25,0.41024702012490905,0.04166195957953217,/Users/aryakumar/Documents/Hypensense/OuraRing/P2OuraRing/HeartRate/P002OrHrLabeled2025-02-03.csv
+P002,2025-02-03,History,6,-0.7142857142857143,0.1107871720116617,/Users/aryakumar/Documents/Hypensense/OuraRing/P2OuraRing/HeartRate/P002OrHrLabeled2025-02-03.csv
+P002,2025-02-03,Homeroom,10,-0.4545454545454545,0.186904810349332,/Users/aryakumar/Documents/Hypensense/OuraRing/P2OuraRing/HeartRate/P002OrHrLabeled2025-02-03.csv
+P002,2025-02-03,Math,20,0.18003798404414736,0.4475236182869703,/Users/aryakumar/Documents/Hypensense/OuraRing/P2OuraRing/HeartRate/P002OrHrLabeled2025-02-03.csv
+P002,2025-02-03,Social Skills,18,0.06925072922392986,0.7848219175043905,/Users/aryakumar/Documents/Hypensense/OuraRing/P2OuraRing/HeartRate/P002OrHrLabeled2025-02-03.csv
+P002,2025-02-03,TOTAL,85,-0.17126547141426754,0.11706465746970755,/Users/aryakumar/Documents/Hypensense/OuraRing/P2OuraRing/HeartRate/P002OrHrLabeled2025-02-03.csv
+P002,2025-02-04,Cash-out,3,0.5,0.6666666666666667,/Users/aryakumar/Documents/Hypensense/OuraRing/P2OuraRing/HeartRate/P002OrHrLabeled2025-02-04.csv
+P002,2025-02-04,ELA,25,-0.25294083682216006,0.2224973132097545,/Users/aryakumar/Documents/Hypensense/OuraRing/P2OuraRing/HeartRate/P002OrHrLabeled2025-02-04.csv
+P002,2025-02-04,Homeroom,2,,,/Users/aryakumar/Documents/Hypensense/OuraRing/P2OuraRing/HeartRate/P002OrHrLabeled2025-02-04.csv
+P002,2025-02-04,Math,9,-0.5020964452534339,0.16839743464431983,/Users/aryakumar/Documents/Hypensense/OuraRing/P2OuraRing/HeartRate/P002OrHrLabeled2025-02-04.csv
+P002,2025-02-04,Social Skills,17,-0.17167385201006033,0.5100029951514176,/Users/aryakumar/Documents/Hypensense/OuraRing/P2OuraRing/HeartRate/P002OrHrLabeled2025-02-04.csv
+P002,2025-02-04,TOTAL,56,0.2482002141689077,0.06511808249875513,/Users/aryakumar/Documents/Hypensense/OuraRing/P2OuraRing/HeartRate/P002OrHrLabeled2025-02-04.csv
+P002,2025-02-05,Cash-out,6,-0.7714285714285715,0.07239650145772594,/Users/aryakumar/Documents/Hypensense/OuraRing/P2OuraRing/HeartRate/P002OrHrLabeled2025-02-05.csv
+P002,2025-02-05,ELA,30,0.29023298313557716,0.1197487682235222,/Users/aryakumar/Documents/Hypensense/OuraRing/P2OuraRing/HeartRate/P002OrHrLabeled2025-02-05.csv
+P002,2025-02-05,History,9,-0.65,0.05807305801714864,/Users/aryakumar/Documents/Hypensense/OuraRing/P2OuraRing/HeartRate/P002OrHrLabeled2025-02-05.csv
+P002,2025-02-05,Homeroom,2,,,/Users/aryakumar/Documents/Hypensense/OuraRing/P2OuraRing/HeartRate/P002OrHrLabeled2025-02-05.csv
+P002,2025-02-05,Math,15,0.20826154857474258,0.4563657026508613,/Users/aryakumar/Documents/Hypensense/OuraRing/P2OuraRing/HeartRate/P002OrHrLabeled2025-02-05.csv
+P002,2025-02-05,Social Skills,5,0.9746794344808964,0.004818230468198537,/Users/aryakumar/Documents/Hypensense/OuraRing/P2OuraRing/HeartRate/P002OrHrLabeled2025-02-05.csv
+P002,2025-02-05,TOTAL,67,0.13561020302577992,0.27387081422858633,/Users/aryakumar/Documents/Hypensense/OuraRing/P2OuraRing/HeartRate/P002OrHrLabeled2025-02-05.csv
+P003,2025-02-04,ELA,6,0.7714285714285715,0.07239650145772594,/Users/aryakumar/Documents/Hypensense/OuraRing/P3OuraRing/HeartRate/P003OrHrLabeled2025-02-04.csv
+P003,2025-02-04,Homeroom,3,0.5,0.6666666666666667,/Users/aryakumar/Documents/Hypensense/OuraRing/P3OuraRing/HeartRate/P003OrHrLabeled2025-02-04.csv
+P003,2025-02-04,Social Skills,25,0.42257369115213633,0.03534141935033028,/Users/aryakumar/Documents/Hypensense/OuraRing/P3OuraRing/HeartRate/P003OrHrLabeled2025-02-04.csv
+P003,2025-02-04,TOTAL,34,0.28481827934009163,0.10254074779686956,/Users/aryakumar/Documents/Hypensense/OuraRing/P3OuraRing/HeartRate/P003OrHrLabeled2025-02-04.csv
+P003,2025-02-05,Cash-out,3,-0.5,0.6666666666666667,/Users/aryakumar/Documents/Hypensense/OuraRing/P3OuraRing/HeartRate/P003OrHrLabeled2025-02-05.csv
+P003,2025-02-05,ELA,18,0.48966968277750267,0.039145598460201915,/Users/aryakumar/Documents/Hypensense/OuraRing/P3OuraRing/HeartRate/P003OrHrLabeled2025-02-05.csv
+P003,2025-02-05,History,3,0.5,0.6666666666666667,/Users/aryakumar/Documents/Hypensense/OuraRing/P3OuraRing/HeartRate/P003OrHrLabeled2025-02-05.csv
+P003,2025-02-05,Homeroom,3,0.5,0.6666666666666667,/Users/aryakumar/Documents/Hypensense/OuraRing/P3OuraRing/HeartRate/P003OrHrLabeled2025-02-05.csv
+P003,2025-02-05,Math,11,-0.7380429170766925,0.009508175898964463,/Users/aryakumar/Documents/Hypensense/OuraRing/P3OuraRing/HeartRate/P003OrHrLabeled2025-02-05.csv
+P003,2025-02-05,TOTAL,38,0.0253982186383795,0.8796922737131161,/Users/aryakumar/Documents/Hypensense/OuraRing/P3OuraRing/HeartRate/P003OrHrLabeled2025-02-05.csv
+P003,2025-02-06,Cash-out,3,-1.0,0.0,/Users/aryakumar/Documents/Hypensense/OuraRing/P3OuraRing/HeartRate/P003OrHrLabeled2025-02-06.csv
+P003,2025-02-06,ELA,13,-0.42857142857142855,0.14397143468783608,/Users/aryakumar/Documents/Hypensense/OuraRing/P3OuraRing/HeartRate/P003OrHrLabeled2025-02-06.csv
+P003,2025-02-06,History,17,0.31656465547425544,0.21573256403977673,/Users/aryakumar/Documents/Hypensense/OuraRing/P3OuraRing/HeartRate/P003OrHrLabeled2025-02-06.csv
+P003,2025-02-06,Homeroom,5,0.0,1.0,/Users/aryakumar/Documents/Hypensense/OuraRing/P3OuraRing/HeartRate/P003OrHrLabeled2025-02-06.csv
+P003,2025-02-06,Math,8,0.4790505047653036,0.22974054535741797,/Users/aryakumar/Documents/Hypensense/OuraRing/P3OuraRing/HeartRate/P003OrHrLabeled2025-02-06.csv
+P003,2025-02-06,Social Skills,15,0.5334966308744314,0.040549771329922754,/Users/aryakumar/Documents/Hypensense/OuraRing/P3OuraRing/HeartRate/P003OrHrLabeled2025-02-06.csv
+P003,2025-02-06,TOTAL,61,-0.12452194138404694,0.33899353887803185,/Users/aryakumar/Documents/Hypensense/OuraRing/P3OuraRing/HeartRate/P003OrHrLabeled2025-02-06.csv
+P003,2025-02-07,ELA/History,9,0.5272012675161055,0.14469933213386174,/Users/aryakumar/Documents/Hypensense/OuraRing/P3OuraRing/HeartRate/P003OrHrLabeled2025-02-07.csv
+P003,2025-02-07,Funday Friday,24,-0.05639428461144867,0.7935265647790469,/Users/aryakumar/Documents/Hypensense/OuraRing/P3OuraRing/HeartRate/P003OrHrLabeled2025-02-07.csv
+P003,2025-02-07,Homeroom,3,-0.5,0.6666666666666667,/Users/aryakumar/Documents/Hypensense/OuraRing/P3OuraRing/HeartRate/P003OrHrLabeled2025-02-07.csv
+P003,2025-02-07,Math,11,-0.04587349021359835,0.8934587058790112,/Users/aryakumar/Documents/Hypensense/OuraRing/P3OuraRing/HeartRate/P003OrHrLabeled2025-02-07.csv
+P003,2025-02-07,TOTAL,47,-0.7496676409151939,1.331214681263518e-09,/Users/aryakumar/Documents/Hypensense/OuraRing/P3OuraRing/HeartRate/P003OrHrLabeled2025-02-07.csv
+P004,2025-02-03,CommSci,44,-0.3012359086266693,0.046914346102189565,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-03.csv
+P004,2025-02-03,ELA,12,0.16812635240120308,0.6014537771328919,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-03.csv
+P004,2025-02-03,HISTORY,19,0.15574204958285567,0.5243332222897308,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-03.csv
+P004,2025-02-03,Homeroom,10,-0.4545454545454545,0.186904810349332,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-03.csv
+P004,2025-02-03,Homework Reinforcement/Study Hall,6,0.7142857142857143,0.1107871720116617,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-03.csv
+P004,2025-02-03,Math,20,0.18003798404414736,0.4475236182869703,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-03.csv
+P004,2025-02-03,TOTAL,111,-0.39780949381395536,1.5352266075835896e-05,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-03.csv
+P004,2025-02-04,ELA,3,0.5,0.6666666666666667,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-04.csv
+P004,2025-02-04,HISTORY,19,0.22290965195068255,0.3589889595957707,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-04.csv
+P004,2025-02-04,Homeroom,2,,,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-04.csv
+P004,2025-02-04,Homework Reinforcement/Study Hall,3,-1.0,0.0,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-04.csv
+P004,2025-02-04,Math,9,-0.5020964452534339,0.16839743464431983,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-04.csv
+P004,2025-02-04,TOTAL,36,-0.046131082821806654,0.7893456769927351,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-04.csv
+P004,2025-02-05,CommSci,6,-0.4285714285714286,0.3965014577259474,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-05.csv
+P004,2025-02-05,ELA,15,-0.08936554059963472,0.7514569520899217,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-05.csv
+P004,2025-02-05,HISTORY,27,0.6081911635148274,0.0007638595704818498,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-05.csv
+P004,2025-02-05,Homeroom,2,,,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-05.csv
+P004,2025-02-05,Homework Reinforcement/Study Hall,3,0.5,0.6666666666666667,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-05.csv
+P004,2025-02-05,Math,15,0.20826154857474258,0.4563657026508613,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-05.csv
+P004,2025-02-05,TOTAL,68,0.006131221259881769,0.9604232699275703,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-05.csv
+P004,2025-02-06,Cash-out,3,0.5,0.6666666666666667,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-06.csv
+P004,2025-02-06,CommSci,542,-0.5514002848123819,1.9481938852425613e-44,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-06.csv
+P004,2025-02-06,HISTORY,58,0.5325277512547408,1.6862096969424283e-05,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-06.csv
+P004,2025-02-06,Homeroom,3,-1.0,0.0,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-06.csv
+P004,2025-02-06,Math,6,-0.7714285714285715,0.07239650145772594,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-06.csv
+P004,2025-02-06,TOTAL,612,-0.229216623912762,9.725531621031974e-09,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-06.csv
+P004,2025-02-07,ELA,10,0.26747843921922837,0.4549860079540271,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-07.csv
+P004,2025-02-07,Friday Funday,17,-0.19141118703094515,0.4617662869607104,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-07.csv
+P004,2025-02-07,Homeroom,3,-0.5,0.6666666666666667,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-07.csv
+P004,2025-02-07,Homework Reinforcement/Study Hall,3,0.5,0.6666666666666667,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-07.csv
+P004,2025-02-07,Math,14,-0.5547045985902692,0.0395171570656792,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-07.csv
+P004,2025-02-07,TOTAL,47,-0.40303277796540177,0.004971605473658509,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-07.csv
+P004,2025-02-10,Cash-out,3,-1.0,0.0,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-10.csv
+P004,2025-02-10,CommSci,17,-0.4413050955683381,0.07618100181619963,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-10.csv
+P004,2025-02-10,ELA,15,-0.1322610000874594,0.6384416250817861,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-10.csv
+P004,2025-02-10,HISTORY,9,0.5166666666666667,0.1543901209862251,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-10.csv
+P004,2025-02-10,Homeroom,15,-0.4239720558568282,0.115268144822744,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-10.csv
+P004,2025-02-10,Homework Reinforcement/Study Hall,3,-1.0,0.0,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-10.csv
+P004,2025-02-10,Math,12,0.2363407591454908,0.4595765539618224,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-10.csv
+P004,2025-02-10,TOTAL,74,0.31354830986768284,0.006522495405971938,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-10.csv
+P004,2025-02-11,Cash-out,3,-0.5,0.6666666666666667,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-11.csv
+P004,2025-02-11,CommSci,17,-0.033354997477346535,0.8988729188416598,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-11.csv
+P004,2025-02-11,ELA,8,-0.5389318178609664,0.16811803527951477,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-11.csv
+P004,2025-02-11,HISTORY,33,-0.3587216274454659,0.04036089488201412,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-11.csv
+P004,2025-02-11,Homeroom,6,-0.6,0.20799999999999982,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-11.csv
+P004,2025-02-11,Homework Reinforcement/Study Hall,33,0.9077537841416888,3.139197479954047e-13,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-11.csv
+P004,2025-02-11,Math,3,0.5,0.6666666666666667,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-11.csv
+P004,2025-02-11,TOTAL,103,0.008123135995667968,0.935095193626255,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-11.csv
+P004,2025-02-12,CommSci,21,-0.4000047902629923,0.07238629043380088,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-12.csv
+P004,2025-02-12,ELA,12,-0.08756580854229329,0.7866940142086327,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-12.csv
+P004,2025-02-12,HISTORY,12,0.2561419276252139,0.42163699726085435,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-12.csv
+P004,2025-02-12,Homeroom,14,0.02857142857142857,0.9227613765698746,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-12.csv
+P004,2025-02-12,Math,15,0.29543526428548034,0.28504872982745605,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-12.csv
+P004,2025-02-12,TOTAL,74,0.5705883410140001,1.1110191567946735e-07,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-12.csv
+P004,2025-02-13,Cash-out,2,,,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-13.csv
+P004,2025-02-13,CommSci,11,-0.2004561009344103,0.5545252303435375,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-13.csv
+P004,2025-02-13,ELA,15,-0.021428571428571425,0.9395779040128779,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-13.csv
+P004,2025-02-13,HISTORY,18,-0.20051703685734915,0.4249865023701819,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-13.csv
+P004,2025-02-13,Homeroom,10,-0.29179466096643103,0.4133266028608583,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-13.csv
+P004,2025-02-13,Math,6,-0.6,0.20799999999999982,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-13.csv
+P004,2025-02-13,TOTAL,62,0.5629999604656838,1.904415352936108e-06,/Users/aryakumar/Documents/Hypensense/OuraRing/P4OuraRing/HeartRate/P004OrHrLabeled2025-02-13.csv
+P005,2025-02-10,Cash-out,3,-0.5,0.6666666666666667,/Users/aryakumar/Documents/Hypensense/OuraRing/P5OuraRing/HeartRate/P005OrHrLabeled2025-02-10.csv
+P005,2025-02-10,CommSci,18,-0.8147037217524055,3.836529659564149e-05,/Users/aryakumar/Documents/Hypensense/OuraRing/P5OuraRing/HeartRate/P005OrHrLabeled2025-02-10.csv
+P005,2025-02-10,ELA,9,0.75,0.019942126131992522,/Users/aryakumar/Documents/Hypensense/OuraRing/P5OuraRing/HeartRate/P005OrHrLabeled2025-02-10.csv
+P005,2025-02-10,Homeroom,6,-0.753702346348183,0.0835232813732598,/Users/aryakumar/Documents/Hypensense/OuraRing/P5OuraRing/HeartRate/P005OrHrLabeled2025-02-10.csv
+P005,2025-02-10,Homework Reinforcement/Study Hall,3,-1.0,0.0,/Users/aryakumar/Documents/Hypensense/OuraRing/P5OuraRing/HeartRate/P005OrHrLabeled2025-02-10.csv
+P005,2025-02-10,Math,3,-0.5,0.6666666666666667,/Users/aryakumar/Documents/Hypensense/OuraRing/P5OuraRing/HeartRate/P005OrHrLabeled2025-02-10.csv
+P005,2025-02-10,TOTAL,42,-0.15574421971258354,0.32467100863017795,/Users/aryakumar/Documents/Hypensense/OuraRing/P5OuraRing/HeartRate/P005OrHrLabeled2025-02-10.csv
+P005,2025-02-11,CommSci,12,-0.7880922768806397,0.0023286751402374524,/Users/aryakumar/Documents/Hypensense/OuraRing/P5OuraRing/HeartRate/P005OrHrLabeled2025-02-11.csv
+P005,2025-02-11,ELA,3,-1.0,0.0,/Users/aryakumar/Documents/Hypensense/OuraRing/P5OuraRing/HeartRate/P005OrHrLabeled2025-02-11.csv
+P005,2025-02-11,HISTORY,8,-0.554257096618662,0.1539883457589951,/Users/aryakumar/Documents/Hypensense/OuraRing/P5OuraRing/HeartRate/P005OrHrLabeled2025-02-11.csv
+P005,2025-02-11,Homeroom,11,-0.6605782590758164,0.02692931058670515,/Users/aryakumar/Documents/Hypensense/OuraRing/P5OuraRing/HeartRate/P005OrHrLabeled2025-02-11.csv
+P005,2025-02-11,Math,15,-0.3348266328568777,0.22251167575917605,/Users/aryakumar/Documents/Hypensense/OuraRing/P5OuraRing/HeartRate/P005OrHrLabeled2025-02-11.csv
+P005,2025-02-11,TOTAL,49,-0.7214735375422623,4.960832122446196e-09,/Users/aryakumar/Documents/Hypensense/OuraRing/P5OuraRing/HeartRate/P005OrHrLabeled2025-02-11.csv
+P005,2025-02-12,CommSci,12,0.4162419340174316,0.17833145463821656,/Users/aryakumar/Documents/Hypensense/OuraRing/P5OuraRing/HeartRate/P005OrHrLabeled2025-02-12.csv
+P005,2025-02-12,ELA,5,-0.8999999999999998,0.03738607346849875,/Users/aryakumar/Documents/Hypensense/OuraRing/P5OuraRing/HeartRate/P005OrHrLabeled2025-02-12.csv
+P005,2025-02-12,HISTORY,6,0.6179143806533246,0.1910939016901931,/Users/aryakumar/Documents/Hypensense/OuraRing/P5OuraRing/HeartRate/P005OrHrLabeled2025-02-12.csv
+P005,2025-02-12,Homeroom,39,-0.25866907367351855,0.11182900769523492,/Users/aryakumar/Documents/Hypensense/OuraRing/P5OuraRing/HeartRate/P005OrHrLabeled2025-02-12.csv
+P005,2025-02-12,Math,9,0.5873670062235365,0.096306769323659,/Users/aryakumar/Documents/Hypensense/OuraRing/P5OuraRing/HeartRate/P005OrHrLabeled2025-02-12.csv
+P005,2025-02-12,TOTAL,71,0.02188351951638559,0.8562557420906629,/Users/aryakumar/Documents/Hypensense/OuraRing/P5OuraRing/HeartRate/P005OrHrLabeled2025-02-12.csv
+P006,2025-02-24,Cash-out,3,-0.5,0.6666666666666667,/Users/aryakumar/Documents/Hypensense/OuraRing/P6OuraRing/HeartRate/P006OrHrLabeled2025-02-24.csv
+P006,2025-02-24,ELA,3,1.0,0.0,/Users/aryakumar/Documents/Hypensense/OuraRing/P6OuraRing/HeartRate/P006OrHrLabeled2025-02-24.csv
+P006,2025-02-24,Homeroom,2,,,/Users/aryakumar/Documents/Hypensense/OuraRing/P6OuraRing/HeartRate/P006OrHrLabeled2025-02-24.csv
+P006,2025-02-24,TOTAL,8,0.09523809523809526,0.8225054302036114,/Users/aryakumar/Documents/Hypensense/OuraRing/P6OuraRing/HeartRate/P006OrHrLabeled2025-02-24.csv
+P006,2025-02-25,ELA,9,0.7782494901428224,0.013505972810006874,/Users/aryakumar/Documents/Hypensense/OuraRing/P6OuraRing/HeartRate/P006OrHrLabeled2025-02-25.csv
+P006,2025-02-25,Homeroom,3,1.0,0.0,/Users/aryakumar/Documents/Hypensense/OuraRing/P6OuraRing/HeartRate/P006OrHrLabeled2025-02-25.csv
+P006,2025-02-25,Math,3,0.5,0.6666666666666667,/Users/aryakumar/Documents/Hypensense/OuraRing/P6OuraRing/HeartRate/P006OrHrLabeled2025-02-25.csv
+P006,2025-02-25,Social Skills,9,-0.6833333333333333,0.04244227208707231,/Users/aryakumar/Documents/Hypensense/OuraRing/P6OuraRing/HeartRate/P006OrHrLabeled2025-02-25.csv
+P006,2025-02-25,TOTAL,24,-0.026132443838798074,0.9035260522660499,/Users/aryakumar/Documents/Hypensense/OuraRing/P6OuraRing/HeartRate/P006OrHrLabeled2025-02-25.csv
+P006,2025-02-26,Cash-out,3,-0.5,0.6666666666666667,/Users/aryakumar/Documents/Hypensense/OuraRing/P6OuraRing/HeartRate/P006OrHrLabeled2025-02-26.csv
+P006,2025-02-26,History,3,1.0,0.0,/Users/aryakumar/Documents/Hypensense/OuraRing/P6OuraRing/HeartRate/P006OrHrLabeled2025-02-26.csv
+P006,2025-02-26,Homeroom,6,0.8285714285714287,0.04156268221574334,/Users/aryakumar/Documents/Hypensense/OuraRing/P6OuraRing/HeartRate/P006OrHrLabeled2025-02-26.csv
+P006,2025-02-26,Math,6,0.6,0.20799999999999982,/Users/aryakumar/Documents/Hypensense/OuraRing/P6OuraRing/HeartRate/P006OrHrLabeled2025-02-26.csv
+P006,2025-02-26,Social Skills,6,0.942857142857143,0.004804664723032055,/Users/aryakumar/Documents/Hypensense/OuraRing/P6OuraRing/HeartRate/P006OrHrLabeled2025-02-26.csv
+P006,2025-02-26,TOTAL,24,0.37320577693213763,0.07245227730083642,/Users/aryakumar/Documents/Hypensense/OuraRing/P6OuraRing/HeartRate/P006OrHrLabeled2025-02-26.csv
+P006,2025-02-27,ELA,3,1.0,0.0,/Users/aryakumar/Documents/Hypensense/OuraRing/P6OuraRing/HeartRate/P006OrHrLabeled2025-02-27.csv
+P006,2025-02-27,Homeroom,60,0.7609703726667844,1.7130894641667399e-12,/Users/aryakumar/Documents/Hypensense/OuraRing/P6OuraRing/HeartRate/P006OrHrLabeled2025-02-27.csv
+P006,2025-02-27,TOTAL,63,0.7020274441725785,1.4493175438376223e-10,/Users/aryakumar/Documents/Hypensense/OuraRing/P6OuraRing/HeartRate/P006OrHrLabeled2025-02-27.csv
+P007,2025-02-24,Cash-out,6,-0.6,0.20799999999999982,/Users/aryakumar/Documents/Hypensense/OuraRing/P7OuraRing/HeartRate/P007OrHrLabeled2025-02-24.csv
+P007,2025-02-24,ELA,9,0.09999999999999999,0.797971695234851,/Users/aryakumar/Documents/Hypensense/OuraRing/P7OuraRing/HeartRate/P007OrHrLabeled2025-02-24.csv
+P007,2025-02-24,History,6,-0.08571428571428573,0.8717434402332361,/Users/aryakumar/Documents/Hypensense/OuraRing/P7OuraRing/HeartRate/P007OrHrLabeled2025-02-24.csv
+P007,2025-02-24,Homeroom,5,0.5642880936468347,0.32172333582430024,/Users/aryakumar/Documents/Hypensense/OuraRing/P7OuraRing/HeartRate/P007OrHrLabeled2025-02-24.csv
+P007,2025-02-24,Social Skills,16,-0.8362868243778058,5.418647437595872e-05,/Users/aryakumar/Documents/Hypensense/OuraRing/P7OuraRing/HeartRate/P007OrHrLabeled2025-02-24.csv
+P007,2025-02-24,TOTAL,42,0.349324942088784,0.023358223576402822,/Users/aryakumar/Documents/Hypensense/OuraRing/P7OuraRing/HeartRate/P007OrHrLabeled2025-02-24.csv
+P007,2025-02-25,ELA,15,0.4014362703302862,0.13804736437640952,/Users/aryakumar/Documents/Hypensense/OuraRing/P7OuraRing/HeartRate/P007OrHrLabeled2025-02-25.csv
+P007,2025-02-25,Homeroom,12,-0.5614069646580032,0.05751824698426694,/Users/aryakumar/Documents/Hypensense/OuraRing/P7OuraRing/HeartRate/P007OrHrLabeled2025-02-25.csv
+P007,2025-02-25,Social Skills,25,-0.25948038967303544,0.21036288491322647,/Users/aryakumar/Documents/Hypensense/OuraRing/P7OuraRing/HeartRate/P007OrHrLabeled2025-02-25.csv
+P007,2025-02-25,TOTAL,52,0.5046661833534111,0.00013612860951296986,/Users/aryakumar/Documents/Hypensense/OuraRing/P7OuraRing/HeartRate/P007OrHrLabeled2025-02-25.csv
+P007,2025-02-26,ELA,18,-0.882909139363156,1.2229254197658882e-06,/Users/aryakumar/Documents/Hypensense/OuraRing/P7OuraRing/HeartRate/P007OrHrLabeled2025-02-26.csv
+P007,2025-02-26,History,3,-1.0,0.0,/Users/aryakumar/Documents/Hypensense/OuraRing/P7OuraRing/HeartRate/P007OrHrLabeled2025-02-26.csv
+P007,2025-02-26,Homeroom,11,0.21818181818181823,0.519248247554982,/Users/aryakumar/Documents/Hypensense/OuraRing/P7OuraRing/HeartRate/P007OrHrLabeled2025-02-26.csv
+P007,2025-02-26,Math,23,-0.2708848576130889,0.21122427894528945,/Users/aryakumar/Documents/Hypensense/OuraRing/P7OuraRing/HeartRate/P007OrHrLabeled2025-02-26.csv
+P007,2025-02-26,Social Skills,9,-0.13333333333333333,0.7323675052362975,/Users/aryakumar/Documents/Hypensense/OuraRing/P7OuraRing/HeartRate/P007OrHrLabeled2025-02-26.csv
+P007,2025-02-26,TOTAL,64,0.30918464077712243,0.012919993933234132,/Users/aryakumar/Documents/Hypensense/OuraRing/P7OuraRing/HeartRate/P007OrHrLabeled2025-02-26.csv
+P007,2025-02-27,ELA,24,0.0509471525718864,0.8131081352984348,/Users/aryakumar/Documents/Hypensense/OuraRing/P7OuraRing/HeartRate/P007OrHrLabeled2025-02-27.csv
+P007,2025-02-27,History,11,-0.009111640951564104,0.9787882460225001,/Users/aryakumar/Documents/Hypensense/OuraRing/P7OuraRing/HeartRate/P007OrHrLabeled2025-02-27.csv
+P007,2025-02-27,Math,26,-0.15460922165062416,0.4507679549518161,/Users/aryakumar/Documents/Hypensense/OuraRing/P7OuraRing/HeartRate/P007OrHrLabeled2025-02-27.csv
+P007,2025-02-27,Social Skills,9,0.6302743551120135,0.06882950344477745,/Users/aryakumar/Documents/Hypensense/OuraRing/P7OuraRing/HeartRate/P007OrHrLabeled2025-02-27.csv
+P007,2025-02-27,TOTAL,70,0.2945760193690477,0.013308061389304005,/Users/aryakumar/Documents/Hypensense/OuraRing/P7OuraRing/HeartRate/P007OrHrLabeled2025-02-27.csv
+P008,2025-02-25,Cash-out,2,,,/Users/aryakumar/Documents/Hypensense/OuraRing/P8OuraRing/HeartRate/P008OrHrLabeled2025-02-25.csv
+P008,2025-02-25,ELA,11,0.4965844318602437,0.12023534902406141,/Users/aryakumar/Documents/Hypensense/OuraRing/P8OuraRing/HeartRate/P008OrHrLabeled2025-02-25.csv
+P008,2025-02-25,Homeroom,5,0.35909242322980395,0.5528147466433505,/Users/aryakumar/Documents/Hypensense/OuraRing/P8OuraRing/HeartRate/P008OrHrLabeled2025-02-25.csv
+P008,2025-02-25,Social Skills,23,0.4213924796747809,0.04522030489274678,/Users/aryakumar/Documents/Hypensense/OuraRing/P8OuraRing/HeartRate/P008OrHrLabeled2025-02-25.csv
+P008,2025-02-25,TOTAL,41,0.42889600958591034,0.005142219429253995,/Users/aryakumar/Documents/Hypensense/OuraRing/P8OuraRing/HeartRate/P008OrHrLabeled2025-02-25.csv
+P008,2025-02-26,ELA,23,-0.4351493680027342,0.037965353616627215,/Users/aryakumar/Documents/Hypensense/OuraRing/P8OuraRing/HeartRate/P008OrHrLabeled2025-02-26.csv
+P008,2025-02-26,History,3,-1.0,0.0,/Users/aryakumar/Documents/Hypensense/OuraRing/P8OuraRing/HeartRate/P008OrHrLabeled2025-02-26.csv
+P008,2025-02-26,Homeroom,9,-0.3666666666666667,0.33173980143301496,/Users/aryakumar/Documents/Hypensense/OuraRing/P8OuraRing/HeartRate/P008OrHrLabeled2025-02-26.csv
+P008,2025-02-26,Math,6,0.2571428571428572,0.6227871720116618,/Users/aryakumar/Documents/Hypensense/OuraRing/P8OuraRing/HeartRate/P008OrHrLabeled2025-02-26.csv
+P008,2025-02-26,TOTAL,41,-0.5612494131081703,0.00013481956511642232,/Users/aryakumar/Documents/Hypensense/OuraRing/P8OuraRing/HeartRate/P008OrHrLabeled2025-02-26.csv
+P008,2025-02-27,ELA,18,0.21107158040587526,0.400490918423809,/Users/aryakumar/Documents/Hypensense/OuraRing/P8OuraRing/HeartRate/P008OrHrLabeled2025-02-27.csv
+P008,2025-02-27,History,15,0.017889116280878824,0.9495452312876004,/Users/aryakumar/Documents/Hypensense/OuraRing/P8OuraRing/HeartRate/P008OrHrLabeled2025-02-27.csv
+P008,2025-02-27,Homeroom,3,0.5,0.6666666666666667,/Users/aryakumar/Documents/Hypensense/OuraRing/P8OuraRing/HeartRate/P008OrHrLabeled2025-02-27.csv
+P008,2025-02-27,Math,12,0.4098079839779326,0.18582449084404484,/Users/aryakumar/Documents/Hypensense/OuraRing/P8OuraRing/HeartRate/P008OrHrLabeled2025-02-27.csv
+P008,2025-02-27,TOTAL,48,0.29424569502674464,0.042352205762963585,/Users/aryakumar/Documents/Hypensense/OuraRing/P8OuraRing/HeartRate/P008OrHrLabeled2025-02-27.csv
+P008,2025-02-28,ELA/History,24,0.17844785838839636,0.4041284921329644,/Users/aryakumar/Documents/Hypensense/OuraRing/P8OuraRing/HeartRate/P008OrHrLabeled2025-02-28.csv
+P008,2025-02-28,Funday Friday,12,0.37762237762237766,0.22620604493502663,/Users/aryakumar/Documents/Hypensense/OuraRing/P8OuraRing/HeartRate/P008OrHrLabeled2025-02-28.csv
+P008,2025-02-28,Math,21,-0.22265700499600727,0.33198887341948913,/Users/aryakumar/Documents/Hypensense/OuraRing/P8OuraRing/HeartRate/P008OrHrLabeled2025-02-28.csv
+P008,2025-02-28,TOTAL,57,0.27472523771890917,0.038625279268943886,/Users/aryakumar/Documents/Hypensense/OuraRing/P8OuraRing/HeartRate/P008OrHrLabeled2025-02-28.csv
+P008,2025-03-03,Cash-out,3,-1.0,0.0,/Users/aryakumar/Documents/Hypensense/OuraRing/P8OuraRing/HeartRate/P008OrHrLabeled2025-03-03.csv
+P008,2025-03-03,ELA,12,-0.06338185336835989,0.844853681587023,/Users/aryakumar/Documents/Hypensense/OuraRing/P8OuraRing/HeartRate/P008OrHrLabeled2025-03-03.csv
+P008,2025-03-03,History,3,0.5,0.6666666666666667,/Users/aryakumar/Documents/Hypensense/OuraRing/P8OuraRing/HeartRate/P008OrHrLabeled2025-03-03.csv
+P008,2025-03-03,Math,15,-0.15205748838747002,0.5885158560274555,/Users/aryakumar/Documents/Hypensense/OuraRing/P8OuraRing/HeartRate/P008OrHrLabeled2025-03-03.csv
+P008,2025-03-03,Social Skills,6,-0.3714285714285715,0.46847813411078715,/Users/aryakumar/Documents/Hypensense/OuraRing/P8OuraRing/HeartRate/P008OrHrLabeled2025-03-03.csv
+P008,2025-03-03,TOTAL,39,0.19538264384915874,0.23326299470945108,/Users/aryakumar/Documents/Hypensense/OuraRing/P8OuraRing/HeartRate/P008OrHrLabeled2025-03-03.csv
+P009,2025-03-03,Cash-out,2,,,/Users/aryakumar/Documents/Hypensense/OuraRing/P9OuraRing/HeartRate/P009OrHrLabeled2025-03-03.csv
+P009,2025-03-03,CommSci,12,-0.07719345764047543,0.8115329720669271,/Users/aryakumar/Documents/Hypensense/OuraRing/P9OuraRing/HeartRate/P009OrHrLabeled2025-03-03.csv
+P009,2025-03-03,History,5,0.5642880936468347,0.32172333582430024,/Users/aryakumar/Documents/Hypensense/OuraRing/P9OuraRing/HeartRate/P009OrHrLabeled2025-03-03.csv
+P009,2025-03-03,Homework Reinforcement/Study Hall,3,-0.5,0.6666666666666667,/Users/aryakumar/Documents/Hypensense/OuraRing/P9OuraRing/HeartRate/P009OrHrLabeled2025-03-03.csv
+P009,2025-03-03,Math,9,0.13333333333333333,0.7323675052362975,/Users/aryakumar/Documents/Hypensense/OuraRing/P9OuraRing/HeartRate/P009OrHrLabeled2025-03-03.csv
+P009,2025-03-03,TOTAL,31,0.33703598100563587,0.06372645794296362,/Users/aryakumar/Documents/Hypensense/OuraRing/P9OuraRing/HeartRate/P009OrHrLabeled2025-03-03.csv
+P009,2025-03-04,Cash-out,3,-0.5,0.6666666666666667,/Users/aryakumar/Documents/Hypensense/OuraRing/P9OuraRing/HeartRate/P009OrHrLabeled2025-03-04.csv
+P009,2025-03-04,CommSci,6,-0.8857142857142858,0.01884548104956266,/Users/aryakumar/Documents/Hypensense/OuraRing/P9OuraRing/HeartRate/P009OrHrLabeled2025-03-04.csv
+P009,2025-03-04,ELA,6,-0.08571428571428573,0.8717434402332361,/Users/aryakumar/Documents/Hypensense/OuraRing/P9OuraRing/HeartRate/P009OrHrLabeled2025-03-04.csv
+P009,2025-03-04,History,6,-0.8857142857142858,0.01884548104956266,/Users/aryakumar/Documents/Hypensense/OuraRing/P9OuraRing/HeartRate/P009OrHrLabeled2025-03-04.csv
+P009,2025-03-04,Homeroom,3,-1.0,0.0,/Users/aryakumar/Documents/Hypensense/OuraRing/P9OuraRing/HeartRate/P009OrHrLabeled2025-03-04.csv
+P009,2025-03-04,Homework Reinforcement/Study Hall,3,0.5,0.6666666666666667,/Users/aryakumar/Documents/Hypensense/OuraRing/P9OuraRing/HeartRate/P009OrHrLabeled2025-03-04.csv
+P009,2025-03-04,Math,6,-0.3142857142857143,0.5440932944606414,/Users/aryakumar/Documents/Hypensense/OuraRing/P9OuraRing/HeartRate/P009OrHrLabeled2025-03-04.csv
+P009,2025-03-04,TOTAL,33,0.3935823528406858,0.023444261753626357,/Users/aryakumar/Documents/Hypensense/OuraRing/P9OuraRing/HeartRate/P009OrHrLabeled2025-03-04.csv
+P009,2025-03-05,CommSci,6,-0.6,0.20799999999999982,/Users/aryakumar/Documents/Hypensense/OuraRing/P9OuraRing/HeartRate/P009OrHrLabeled2025-03-05.csv
+P009,2025-03-05,ELA,6,-0.7142857142857143,0.1107871720116617,/Users/aryakumar/Documents/Hypensense/OuraRing/P9OuraRing/HeartRate/P009OrHrLabeled2025-03-05.csv
+P009,2025-03-05,History,5,-0.7999999999999999,0.10408803866182788,/Users/aryakumar/Documents/Hypensense/OuraRing/P9OuraRing/HeartRate/P009OrHrLabeled2025-03-05.csv
+P009,2025-03-05,Math,9,-0.5166666666666667,0.1543901209862251,/Users/aryakumar/Documents/Hypensense/OuraRing/P9OuraRing/HeartRate/P009OrHrLabeled2025-03-05.csv
+P009,2025-03-05,TOTAL,26,-0.20629495078785764,0.31196972563798253,/Users/aryakumar/Documents/Hypensense/OuraRing/P9OuraRing/HeartRate/P009OrHrLabeled2025-03-05.csv
+P009,2025-03-06,CommSci,3,-1.0,0.0,/Users/aryakumar/Documents/Hypensense/OuraRing/P9OuraRing/HeartRate/P009OrHrLabeled2025-03-06.csv
+P009,2025-03-06,ELA,6,-0.6,0.20799999999999982,/Users/aryakumar/Documents/Hypensense/OuraRing/P9OuraRing/HeartRate/P009OrHrLabeled2025-03-06.csv
+P009,2025-03-06,Homework Reinforcement/Study Hall,10,-0.42553388057604524,0.22017919518735943,/Users/aryakumar/Documents/Hypensense/OuraRing/P9OuraRing/HeartRate/P009OrHrLabeled2025-03-06.csv
+P009,2025-03-06,Math,1,,,/Users/aryakumar/Documents/Hypensense/OuraRing/P9OuraRing/HeartRate/P009OrHrLabeled2025-03-06.csv
+P009,2025-03-06,TOTAL,20,0.12946940883498959,0.5864266021276283,/Users/aryakumar/Documents/Hypensense/OuraRing/P9OuraRing/HeartRate/P009OrHrLabeled2025-03-06.csv
+P009,2025-03-07,Homework Reinforcement/Study Hall,3,0.5,0.6666666666666667,/Users/aryakumar/Documents/Hypensense/OuraRing/P9OuraRing/HeartRate/P009OrHrLabeled2025-03-07.csv
+P009,2025-03-07,Math,3,-1.0,0.0,/Users/aryakumar/Documents/Hypensense/OuraRing/P9OuraRing/HeartRate/P009OrHrLabeled2025-03-07.csv
+P009,2025-03-07,TOTAL,6,0.48571428571428577,0.3287230320699709,/Users/aryakumar/Documents/Hypensense/OuraRing/P9OuraRing/HeartRate/P009OrHrLabeled2025-03-07.csv
+P012,2025-03-17,Cash-out,3,-0.5,0.6666666666666667,/Users/aryakumar/Documents/Hypensense/OuraRing/P12OuraRing/HeartRate/P012OrHrLabeled2025-03-17.csv
+P012,2025-03-17,ELA,3,-0.5,0.6666666666666667,/Users/aryakumar/Documents/Hypensense/OuraRing/P12OuraRing/HeartRate/P012OrHrLabeled2025-03-17.csv
+P012,2025-03-17,Social Skills,12,0.085268444525032,0.7921806720139077,/Users/aryakumar/Documents/Hypensense/OuraRing/P12OuraRing/HeartRate/P012OrHrLabeled2025-03-17.csv
+P012,2025-03-17,TOTAL,18,0.7205884546800844,0.0007422738046305235,/Users/aryakumar/Documents/Hypensense/OuraRing/P12OuraRing/HeartRate/P012OrHrLabeled2025-03-17.csv
+P012,2025-03-18,ELA,3,0.5,0.6666666666666667,/Users/aryakumar/Documents/Hypensense/OuraRing/P12OuraRing/HeartRate/P012OrHrLabeled2025-03-18.csv
+P012,2025-03-18,Math,9,-0.3096261412396175,0.4174779170120546,/Users/aryakumar/Documents/Hypensense/OuraRing/P12OuraRing/HeartRate/P012OrHrLabeled2025-03-18.csv
+P012,2025-03-18,Social Skills,6,-0.6,0.20799999999999982,/Users/aryakumar/Documents/Hypensense/OuraRing/P12OuraRing/HeartRate/P012OrHrLabeled2025-03-18.csv
+P012,2025-03-18,TOTAL,18,-0.36194493132807337,0.1399588647265139,/Users/aryakumar/Documents/Hypensense/OuraRing/P12OuraRing/HeartRate/P012OrHrLabeled2025-03-18.csv
+P012,2025-03-19,ELA,9,-0.728039845617479,0.026153620753162264,/Users/aryakumar/Documents/Hypensense/OuraRing/P12OuraRing/HeartRate/P012OrHrLabeled2025-03-19.csv
+P012,2025-03-19,History,3,0.5,0.6666666666666667,/Users/aryakumar/Documents/Hypensense/OuraRing/P12OuraRing/HeartRate/P012OrHrLabeled2025-03-19.csv
+P012,2025-03-19,Homeroom,3,1.0,0.0,/Users/aryakumar/Documents/Hypensense/OuraRing/P12OuraRing/HeartRate/P012OrHrLabeled2025-03-19.csv
+P012,2025-03-19,Math,3,-0.5,0.6666666666666667,/Users/aryakumar/Documents/Hypensense/OuraRing/P12OuraRing/HeartRate/P012OrHrLabeled2025-03-19.csv
+P012,2025-03-19,Social Skills,3,-1.0,0.0,/Users/aryakumar/Documents/Hypensense/OuraRing/P12OuraRing/HeartRate/P012OrHrLabeled2025-03-19.csv
+P012,2025-03-19,TOTAL,21,-0.24536347419569052,0.2837010775293322,/Users/aryakumar/Documents/Hypensense/OuraRing/P12OuraRing/HeartRate/P012OrHrLabeled2025-03-19.csv
+P012,2025-03-20,ELA,6,0.6,0.20799999999999982,/Users/aryakumar/Documents/Hypensense/OuraRing/P12OuraRing/HeartRate/P012OrHrLabeled2025-03-20.csv
+P012,2025-03-20,Homeroom,160,-0.42079397704198235,3.018607106273961e-08,/Users/aryakumar/Documents/Hypensense/OuraRing/P12OuraRing/HeartRate/P012OrHrLabeled2025-03-20.csv
+P012,2025-03-20,Social Skills,330,-0.13720779686318915,0.012600833829045175,/Users/aryakumar/Documents/Hypensense/OuraRing/P12OuraRing/HeartRate/P012OrHrLabeled2025-03-20.csv
+P012,2025-03-20,TOTAL,496,-0.022778038318557636,0.6128027899161687,/Users/aryakumar/Documents/Hypensense/OuraRing/P12OuraRing/HeartRate/P012OrHrLabeled2025-03-20.csv
+P014,2025-03-25,Cash-out,6,-0.942857142857143,0.004804664723032055,/Users/aryakumar/Documents/Hypensense/OuraRing/P14OuraRing/HeartRate/P014OrHrLabeled2025-03-25.csv
+P014,2025-03-25,CommSci,6,-0.5428571428571429,0.26570262390670557,/Users/aryakumar/Documents/Hypensense/OuraRing/P14OuraRing/HeartRate/P014OrHrLabeled2025-03-25.csv
+P014,2025-03-25,ELA,54,0.6351919017197948,2.4786417207264355e-07,/Users/aryakumar/Documents/Hypensense/OuraRing/P14OuraRing/HeartRate/P014OrHrLabeled2025-03-25.csv
+P014,2025-03-25,Homeroom,9,0.16666666666666669,0.668231040071504,/Users/aryakumar/Documents/Hypensense/OuraRing/P14OuraRing/HeartRate/P014OrHrLabeled2025-03-25.csv
+P014,2025-03-25,Math,25,-0.48503970863721263,0.013989094116176276,/Users/aryakumar/Documents/Hypensense/OuraRing/P14OuraRing/HeartRate/P014OrHrLabeled2025-03-25.csv
+P014,2025-03-25,TOTAL,100,0.4605908453381728,1.4220912427549256e-06,/Users/aryakumar/Documents/Hypensense/OuraRing/P14OuraRing/HeartRate/P014OrHrLabeled2025-03-25.csv
+P014,2025-03-26,Cash-out,2,,,/Users/aryakumar/Documents/Hypensense/OuraRing/P14OuraRing/HeartRate/P014OrHrLabeled2025-03-26.csv
+P014,2025-03-26,CommSci,9,0.7999999999999999,0.00962792472537983,/Users/aryakumar/Documents/Hypensense/OuraRing/P14OuraRing/HeartRate/P014OrHrLabeled2025-03-26.csv
+P014,2025-03-26,ELA,27,-0.017463353315665057,0.9311048899807917,/Users/aryakumar/Documents/Hypensense/OuraRing/P14OuraRing/HeartRate/P014OrHrLabeled2025-03-26.csv
+P014,2025-03-26,History,24,-0.6134753218303548,0.0014323833574085803,/Users/aryakumar/Documents/Hypensense/OuraRing/P14OuraRing/HeartRate/P014OrHrLabeled2025-03-26.csv
+P014,2025-03-26,Homeroom,14,0.2885469554699913,0.31707898059034495,/Users/aryakumar/Documents/Hypensense/OuraRing/P14OuraRing/HeartRate/P014OrHrLabeled2025-03-26.csv
+P014,2025-03-26,Math,30,-0.3666610173933021,0.04626433096421544,/Users/aryakumar/Documents/Hypensense/OuraRing/P14OuraRing/HeartRate/P014OrHrLabeled2025-03-26.csv
+P014,2025-03-26,TOTAL,106,0.10141386638016292,0.3009448516873197,/Users/aryakumar/Documents/Hypensense/OuraRing/P14OuraRing/HeartRate/P014OrHrLabeled2025-03-26.csv
+P014,2025-03-27,CommSci,12,0.11950956970358119,0.7114236780033645,/Users/aryakumar/Documents/Hypensense/OuraRing/P14OuraRing/HeartRate/P014OrHrLabeled2025-03-27.csv
+P014,2025-03-27,ELA,24,-0.3023312278479607,0.15102972132565345,/Users/aryakumar/Documents/Hypensense/OuraRing/P14OuraRing/HeartRate/P014OrHrLabeled2025-03-27.csv
+P014,2025-03-27,History,21,0.7767309509070157,3.460262702881488e-05,/Users/aryakumar/Documents/Hypensense/OuraRing/P14OuraRing/HeartRate/P014OrHrLabeled2025-03-27.csv
+P014,2025-03-27,Homeroom,9,-0.11666666666666665,0.7650079429261462,/Users/aryakumar/Documents/Hypensense/OuraRing/P14OuraRing/HeartRate/P014OrHrLabeled2025-03-27.csv
+P014,2025-03-27,Homework Reinforcement/Study Hall,6,-0.028988551782622423,0.9565293523898406,/Users/aryakumar/Documents/Hypensense/OuraRing/P14OuraRing/HeartRate/P014OrHrLabeled2025-03-27.csv
+P014,2025-03-27,Math,39,-0.2885573280328095,0.07482724277541386,/Users/aryakumar/Documents/Hypensense/OuraRing/P14OuraRing/HeartRate/P014OrHrLabeled2025-03-27.csv
+P014,2025-03-27,TOTAL,111,0.16442887098783196,0.08461515414566809,/Users/aryakumar/Documents/Hypensense/OuraRing/P14OuraRing/HeartRate/P014OrHrLabeled2025-03-27.csv
+P014,2025-03-31,CommSci,14,-0.1834282138764635,0.5302010973387455,/Users/aryakumar/Documents/Hypensense/OuraRing/P14OuraRing/HeartRate/P014OrHrLabeled2025-03-31.csv
+P014,2025-03-31,ELA,14,-0.022002213534027888,0.9404873477713444,/Users/aryakumar/Documents/Hypensense/OuraRing/P14OuraRing/HeartRate/P014OrHrLabeled2025-03-31.csv
+P014,2025-03-31,History,15,-0.06570918678651402,0.816023284983405,/Users/aryakumar/Documents/Hypensense/OuraRing/P14OuraRing/HeartRate/P014OrHrLabeled2025-03-31.csv
+P014,2025-03-31,Homeroom,15,0.6296968930869347,0.01188076626309665,/Users/aryakumar/Documents/Hypensense/OuraRing/P14OuraRing/HeartRate/P014OrHrLabeled2025-03-31.csv
+P014,2025-03-31,Homework Reinforcement/Study Hall,9,0.24267994853915967,0.5292413110551777,/Users/aryakumar/Documents/Hypensense/OuraRing/P14OuraRing/HeartRate/P014OrHrLabeled2025-03-31.csv
+P014,2025-03-31,Math,27,-0.702628886894768,4.384164234104059e-05,/Users/aryakumar/Documents/Hypensense/OuraRing/P14OuraRing/HeartRate/P014OrHrLabeled2025-03-31.csv
+P014,2025-03-31,TOTAL,94,0.41679925165298126,2.9308805219374096e-05,/Users/aryakumar/Documents/Hypensense/OuraRing/P14OuraRing/HeartRate/P014OrHrLabeled2025-03-31.csv
+P016,2025-03-25,CommSci,3,0.5,0.6666666666666667,/Users/aryakumar/Documents/Hypensense/OuraRing/P16OuraRing/HeartRate/P016OrHrLabeled2025-03-25.csv
+P016,2025-03-25,ELA,40,0.2643317872445461,0.09930490518385457,/Users/aryakumar/Documents/Hypensense/OuraRing/P16OuraRing/HeartRate/P016OrHrLabeled2025-03-25.csv
+P016,2025-03-25,Homeroom,1,,,/Users/aryakumar/Documents/Hypensense/OuraRing/P16OuraRing/HeartRate/P016OrHrLabeled2025-03-25.csv
+P016,2025-03-25,Math,6,-0.3530939318018998,0.49237015259129446,/Users/aryakumar/Documents/Hypensense/OuraRing/P16OuraRing/HeartRate/P016OrHrLabeled2025-03-25.csv
+P016,2025-03-25,TOTAL,50,0.3492790984415627,0.012913019935425197,/Users/aryakumar/Documents/Hypensense/OuraRing/P16OuraRing/HeartRate/P016OrHrLabeled2025-03-25.csv
+P016,2025-03-26,ELA,12,0.175439676455626,0.5854885829639287,/Users/aryakumar/Documents/Hypensense/OuraRing/P16OuraRing/HeartRate/P016OrHrLabeled2025-03-26.csv
+P016,2025-03-26,History,9,-0.8284591346681658,0.0057953731994397194,/Users/aryakumar/Documents/Hypensense/OuraRing/P16OuraRing/HeartRate/P016OrHrLabeled2025-03-26.csv
+P016,2025-03-26,Math,3,-1.0,0.0,/Users/aryakumar/Documents/Hypensense/OuraRing/P16OuraRing/HeartRate/P016OrHrLabeled2025-03-26.csv
+P016,2025-03-26,TOTAL,24,0.4765470271377979,0.018557995509379345,/Users/aryakumar/Documents/Hypensense/OuraRing/P16OuraRing/HeartRate/P016OrHrLabeled2025-03-26.csv
+P016,2025-03-27,History,88,-0.29117856047577173,0.005916915821968808,/Users/aryakumar/Documents/Hypensense/OuraRing/P16OuraRing/HeartRate/P016OrHrLabeled2025-03-27.csv
+P016,2025-03-27,Homework Reinforcement/Study Hall,25,0.7263656722889766,3.9377364101165605e-05,/Users/aryakumar/Documents/Hypensense/OuraRing/P16OuraRing/HeartRate/P016OrHrLabeled2025-03-27.csv
+P016,2025-03-27,Math,3,0.5,0.6666666666666667,/Users/aryakumar/Documents/Hypensense/OuraRing/P16OuraRing/HeartRate/P016OrHrLabeled2025-03-27.csv
+P016,2025-03-27,TOTAL,116,-0.396410331144771,1.0573620541256047e-05,/Users/aryakumar/Documents/Hypensense/OuraRing/P16OuraRing/HeartRate/P016OrHrLabeled2025-03-27.csv

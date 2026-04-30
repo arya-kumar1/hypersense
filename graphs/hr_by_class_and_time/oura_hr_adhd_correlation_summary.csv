@@ -1,0 +1,5 @@
+analysis,x_variable,y_variable,n,spearman_rho,spearman_p
+pooled_long_all_raters,mean_hr_bpm,Inattention score,121,-0.07447591933151917,0.4168720989171999
+pooled_long_all_raters,mean_hr_bpm,Hyperactivity score,121,0.11500290243093328,0.2090895246507064
+participant_mean_hr,mean_hr_across_classes_bpm,Inattention score,8,-0.2380952380952381,0.5701563208157683
+participant_mean_hr,mean_hr_across_classes_bpm,Hyperactivity score,8,0.2155727271443866,0.6081490663684048
