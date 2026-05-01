@@ -4,4 +4,3 @@ ml_pipeline/
 ouraring/
 __pycache__/
 .DS_Store
-.gitignore
